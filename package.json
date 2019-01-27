@@ -1,0 +1,30 @@
+{
+  "name": "nlpviz",
+  "version": "0.0.1",
+  "description": "codeNLP with d3.js",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "mvn compile",
+    "start": "mvn -e exec:java@webServer",
+    "en-gen": "mvn -e exec:java@batch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t-cool/nlpviz.git"
+  },
+  "keywords": [
+    "coreNLP"
+  ],
+  "author": "bpodgursky",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/t-cool/nlpviz/issues"
+  },
+  "homepage": "https://github.com/t-cool/nlpviz#readme",
+  "dependencies": {
+    "convert-svg-to-png": "^0.4.0",
+    "d3-node": "^2.0.1",
+    "fs": "0.0.1-security"
+  }
+}

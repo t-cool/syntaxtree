@@ -1,0 +1,8 @@
+com\bpodgursky\nlpviz\servlet\HomeServlet.class
+com\bpodgursky\nlpviz\api\WebServer.class
+com\bpodgursky\nlpviz\scripts\StanfordCoreNLPTest.class
+com\bpodgursky\nlpviz\AbstractParser.class
+com\bpodgursky\nlpviz\EnglishParser.class
+com\bpodgursky\nlpviz\servlet\ParseServlet.class
+com\bpodgursky\nlpviz\api\Batch.class
+com\bpodgursky\nlpviz\SpanishParser.class
