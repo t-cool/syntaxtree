@@ -1,6 +1,6 @@
-# synit
+# syntix
 
-Synit visualizes the structure of English sentences using Stanford CoreNLP and D3.js.
+Syntix visualizes the structure of English sentences using Stanford CoreNLP and D3.js.
 
 ![image](screenshot/image.png)　　
 
