@@ -1,6 +1,6 @@
-# nlpviz-batch
+# syntaxit
 
-Nlpviz visualizes the structure of English sentences using Stanford CoreNLP and D3.js.
+Syntaxit visualizes the structure of English sentences using Stanford CoreNLP and D3.js.
 
 ![image](screenshot/image.png)　　
 
