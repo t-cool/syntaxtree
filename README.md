@@ -1,6 +1,6 @@
-# syntix
+# syntaxtree
 
-Syntix visualizes the structure of English sentences using Stanford CoreNLP and D3.js.
+Syntaxtree visualizes the structure of English sentences using Stanford CoreNLP and D3.js.
 
 ![image](screenshot/image.png)　　
 
