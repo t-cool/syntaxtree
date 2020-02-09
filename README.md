@@ -1,7 +1,5 @@
 # syntaxtree
 
-[Syntaxtree will be re-implemented in Clojure]
-
 Syntaxtree visualizes the structure of English sentences using Stanford CoreNLP and D3.js.
 
 ![image](screenshot/image.png)　　
